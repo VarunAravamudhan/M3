@@ -15,7 +15,7 @@ To write a program to prepare EMI calculator using function without return type 
 5.	Display the result.
 6.	Stop the program.
 
-## PROGRA#
+## PROGRAM
 ```
 include <stdio.h>
 #include <math.h>
